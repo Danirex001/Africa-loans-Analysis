@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes a loan dataset containing details such as loan guarantee numbers, transaction report IDs, guarantee country names, loan amounts, currencies, disbursement dates, end dates, business sectors, and more. The goal is to extract insights, identify trends, and visualize key findings.
+This project analyzes loan dataset espercially Africa loans and has details such as loan guarantee numbers, transaction report IDs, guarantee country names, loan amounts, currencies, disbursement dates, end dates, business sectors, and more. The goal is to extract insights, identify trends, and visualize key findings.
 
 ## Objectives of the Analysis
 Identify the total loan amount per business sector.
